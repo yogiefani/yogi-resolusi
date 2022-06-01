@@ -5,8 +5,11 @@ RENCANA PUSH BELAJAR YOGI
   * Javascript DOM
   * Framework Javascript
    ^ Angular Js
+   ^ Vue Js
    ^ React Js
+- Fundamental Data Strucktur
 - PHP Framework
   ^ Laravel
 - GIT
 - Bahasa English
+- Python
