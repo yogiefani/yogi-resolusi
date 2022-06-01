@@ -1,6 +1,9 @@
 RENCANA PUSH BELAJAR YOGI
 
 - JAVASCRIPT
+  * ES6
+  * Javascript DOM
+  * Framework Javascript
 - PHP Framework
 - GIT
 - Bahasa English
